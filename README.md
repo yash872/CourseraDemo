@@ -1,2 +1,3 @@
 # CourseraDemo
 Coursera Demo Repo
+I am editing the README file. Adding some more details about the project description.
